@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/cookiecutter/whichcraft/commit/226393eca8b181e44d2e1ce1baf7d79d5a3a661f",
       "git:hexsha": "226393eca8b181e44d2e1ce1baf7d79d5a3a661f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T13:26:06.292878+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cookiecutter/whichcraft/commit/9108eba9026e7835be05946b11d8e442f54da79f",
