@@ -1,0 +1,11 @@
+{
+  "org": "cookiecutter",
+  "repo": "whichcraft",
+  "versions": [
+    {
+      "commit": "226393eca8b181e44d2e1ce1baf7d79d5a3a661f",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:26:06.293401+00:00"
+    }
+  ]
+}
